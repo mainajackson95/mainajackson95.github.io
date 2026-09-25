@@ -1,9 +1,7 @@
 ---
-title: Programs
+title: "Programs"
 ---
 
-Platform strategy, program selection, the meta-game.
+# Programs
 
-- [[bugbounty]] — the landscape overview
-- [[bugcrowd]] — Bugcrowd platform notes
-- [[vdp]] — VDP vs paid programs — when each is worth the time
+🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.

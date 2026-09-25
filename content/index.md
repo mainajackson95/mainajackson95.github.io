@@ -16,9 +16,9 @@ If you're past that and want to find bugs that actually pay, chain findings into
 
 - **[Methodology](./Methodology/)** — Zero to payout
 - **[Recon](./Recon/)** — Discovery, enumeration, target mapping
-- **[Attack Surface](./Attack-Surface/)** — Web, API, and the tooling that tests them
+- **[Attack Surface](./Attack-Surface/)** — Web, API, mobile, cloud, CI/CD
 - **[Chains](./Chains/)** — Multi-vuln escalation patterns
-- **[Tooling](./Attack-Surface/Tooling)** — Configs, scripts, and automation
+- **[Tooling](./Tooling)** — Configs, scripts, and automation
 - **[Reporting](./Reporting/)** — Reports that get paid, not triaged as informational
 - **[Programs](./Programs/)** — Platform strategy, program selection, the meta-game
 - **[Business of Bounties](./Business-of-Bounties/)** — The stuff nobody talks about
@@ -42,7 +42,3 @@ Pages are tagged by topic and attack surface. Feedback welcome.
 I'm mainajackson95 — bug bounty hunter on HackerOne, hunting web, API, and mobile targets. *(placeholder bio — edit me before going loud)*
 
 This playbook is the methodology I actually use, not the one I'd put in a slide deck.
-
----
-
-*Built with [Quartz v4](https://quartz.jzhao.xyz/). Content lives in an Obsidian vault — edit locally, ship on push.*

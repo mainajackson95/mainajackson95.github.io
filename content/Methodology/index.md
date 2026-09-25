@@ -1,11 +1,17 @@
 ---
-title: Methodology
+title: "Methodology"
 ---
 
-Zero to payout — the repeatable loop: pick a target, map the scope, recon systematically, hunt by vuln class, chain what you find, report with impact.
+# Methodology
 
-- Start from [Programs](../Programs/) for target selection
-- [Recon](../Recon/) feeds everything — you can't attack what you haven't mapped
-- Finish in [Reporting](../Reporting/)
+🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
 
-*(this section grows as the workflow gets documented — see the vault for work in progress)*
+- [Chain Thinking](Chain-Thinking)
+- [Dispute Handling](Dispute-Handling)
+- [Legal Protections](Legal-Protections)
+- [Post Submission](Post-Submission)
+- [Recon Driven Hunting](Recon-Driven-Hunting)
+- [Scoping](Scoping)
+- [Specializing](Specializing)
+- [Target Selection](Target-Selection)
+- [Time Boxing](Time-Boxing)

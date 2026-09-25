@@ -1,10 +1,13 @@
 ---
-title: Business of Bounties
+title: "Business of Bounties"
 ---
 
-The stuff nobody talks about: pace, psychology, idea pipelines, and staying consistent.
+# Business of Bounties
 
-- [[3 Tricks to Hunt Faster in Bug Bounty]]
-- [[psychology]] — the mental game
-- [[ideation]] — where hunting ideas come from
-- [[research]] — how I research targets and techniques
+🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+
+- [Career Strategy](Career-Strategy)
+- [Financial](Financial)
+- [Mental Health](Mental-Health)
+- [Running a Program](Running-a-Program)
+- [For Organisations](For-Organisations/)

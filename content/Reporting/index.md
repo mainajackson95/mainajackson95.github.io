@@ -1,11 +1,13 @@
 ---
-title: Reporting
+title: "Reporting"
 ---
 
-Reports that get paid, not triaged as informational. Impact first, PoC second, story third.
+# Reporting
 
-## Inside
+🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
 
-- [[Excessive Trust in client-side controls report]] — written-up finding
-- [[lab 2FA broken logic report]] — 2FA bypass write-up
-- [[lab 2FA broken logic]] — the lab behind it
+- [Impact Statements](Impact-Statements)
+- [Report Templates](Report-Templates)
+- [Report Writing](Report-Writing)
+- [Responsible Disclosure](Responsible-Disclosure)
+- [Severity Escalation](Severity-Escalation)

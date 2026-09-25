@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "BugBounty.info",
+    pageTitle: "Bug Bounty Playbook",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
