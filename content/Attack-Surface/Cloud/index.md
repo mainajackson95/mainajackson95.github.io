@@ -4,9 +4,11 @@ title: "Cloud"
 
 # Cloud
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Cloud misconfiguration — the estate behind the app: AWS, Azure, GCP, and the multi-cloud glue.
 
-- [AWS](AWS/)
-- [Azure](Azure/)
-- [GCP](GCP/)
-- [Multi Cloud](Multi-Cloud/)
+## Explore
+
+- **[AWS](AWS/)**
+- **[Azure](Azure/)**
+- **[GCP](GCP/)**
+- **[Multi Cloud](Multi-Cloud/)**

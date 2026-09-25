@@ -4,7 +4,9 @@ title: "API"
 
 # API
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+REST, GraphQL, gRPC, and the gateways in front of them — every API is its own attack surface.
+
+## Explore
 
 - [API Gateway Bypass](API-Gateway-Bypass)
 - [GraphQL](GraphQL)

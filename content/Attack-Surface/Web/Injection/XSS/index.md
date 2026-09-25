@@ -4,7 +4,9 @@ title: "XSS"
 
 # XSS
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+The XSS family — where the payload lands decides what it's worth. Stored in a shared context beats reflected every time.
+
+## Explore
 
 - [DOM XSS](DOM-XSS)
 - [Framework XSS](Framework-XSS)

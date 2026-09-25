@@ -4,7 +4,9 @@ title: "Chains"
 
 # Chains
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Where a medium becomes a critical. Each pattern here is a repeatable escalation route — find the entry bug, walk the chain.
+
+## Explore
 
 - [CSRF to ATO](CSRF-to-ATO)
 - [File Upload to RCE](File-Upload-to-RCE)

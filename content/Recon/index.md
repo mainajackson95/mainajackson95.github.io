@@ -4,7 +4,9 @@ title: "Recon"
 
 # Recon
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Discovery, enumeration, target mapping. You can't attack what you can't see — and the best targets are the ones nobody else has found yet. Each technique below feeds the pipeline; pages link to the attack-surface techniques they surface.
+
+## Explore
 
 - [API Discovery](API-Discovery)
 - [API Documentation Discovery](API-Documentation-Discovery)

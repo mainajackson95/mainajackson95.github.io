@@ -4,7 +4,9 @@ title: "Methodology"
 
 # Methodology
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+The operating system of the hunt — how targets get chosen, scoped, and worked, from selection to post-submission.
+
+## Explore
 
 - [Chain Thinking](Chain-Thinking)
 - [Dispute Handling](Dispute-Handling)

@@ -4,7 +4,9 @@ title: "Reporting"
 
 # Reporting
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Reports that get paid, not triaged as informational. Impact first, PoC second, story third.
+
+## Explore
 
 - [Impact Statements](Impact-Statements)
 - [Report Templates](Report-Templates)

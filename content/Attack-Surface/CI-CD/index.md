@@ -4,7 +4,9 @@ title: "CI CD"
 
 # CI CD
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Pipelines are production: leaked secrets, poisoned supply chains, runner abuse.
+
+## Explore
 
 - [GitHub Actions](GitHub-Actions)
 - [GitLab CI](GitLab-CI)

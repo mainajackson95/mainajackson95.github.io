@@ -4,12 +4,14 @@ title: "Attack Surface"
 
 # Attack Surface
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Organized by what you're attacking, not by vulnerability class. The same bug looks completely different on a REST API vs a GraphQL endpoint vs a mobile app's local storage — context is the multiplier.
 
-- [AI LLM](AI-LLM/)
-- [API](API/)
-- [CI CD](CI-CD/)
-- [Cloud](Cloud/)
-- [Mobile](Mobile/)
-- [Web](Web/)
-- [Web3](Web3/)
+## Explore
+
+- **[AI LLM](AI-LLM/)**
+- **[API](API/)**
+- **[CI CD](CI-CD/)**
+- **[Cloud](Cloud/)**
+- **[Mobile](Mobile/)**
+- **[Web](Web/)**
+- **[Web3](Web3/)**

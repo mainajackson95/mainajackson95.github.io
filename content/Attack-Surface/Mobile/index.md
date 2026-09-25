@@ -4,8 +4,10 @@ title: "Mobile"
 
 # Mobile
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Android, iOS, and the shared logic between them — local storage, IPC, and API reuse.
 
-- [Android](Android/)
-- [Shared](Shared/)
-- [iOS](iOS/)
+## Explore
+
+- **[Android](Android/)**
+- **[Shared](Shared/)**
+- **[iOS](iOS/)**

@@ -4,7 +4,9 @@ title: "AI LLM"
 
 # AI LLM
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Attacking the AI features apps keep bolting on: prompt injection, agent abuse, RAG and vector store attacks, model DoS.
+
+## Explore
 
 - [Agent Abuse](Agent-Abuse)
 - [Direct Prompt Injection](Direct-Prompt-Injection)

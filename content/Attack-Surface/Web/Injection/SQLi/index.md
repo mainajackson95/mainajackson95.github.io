@@ -4,7 +4,9 @@ title: "SQLi"
 
 # SQLi
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+The SQL injection family — blind, error-based, second-order.
+
+## Explore
 
 - [Blind](Blind)
 - [Error Based](Error-Based)

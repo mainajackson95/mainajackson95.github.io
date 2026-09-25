@@ -4,7 +4,9 @@ title: "For Organisations"
 
 # For Organisations
 
-🚧 **In progress** — this section of the playbook is being built out. Pages below exist in the structure; each will carry its write-up soon.
+Pages in this section — each links to its own write-up.
+
+## Explore
 
 - [1 Starting a Program](1-Starting-a-Program)
 - [2 Scoping a Program](2-Scoping-a-Program)
